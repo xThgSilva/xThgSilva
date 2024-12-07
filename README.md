@@ -56,8 +56,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Thiago-234/Thiago-234/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
