@@ -1,11 +1,9 @@
 name: Generate snake animation
 
 on:
-  schedule: # execute every 12 hours
+  schedule: # execute a cada 12 horas
     - cron: "* */12 * * *"
-
   workflow_dispatch:
-
   push:
     branches:
     - master
@@ -18,14 +16,21 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate snake.svg
+      - name: Gerar snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Thiago-234
-          outputs: dist/snake.svg
+          github_user_name: Thiago-234  # Seu nome de usuário no GitHub
+          outputs: dist/snake.svg  # Corrigido: Remover o parâmetro de URL
 
+      - name: Criar a branch 'output' se não existir
+        run: |
+          git fetch
+          git checkout --orphan output || git checkout output
+          git rm -rf .
+          git commit --allow-empty -m "Initial commit"
+          git push origin output
 
-      - name: push snake.svg to the output branch
+      - name: Enviar snake.svg para a branch de output
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
