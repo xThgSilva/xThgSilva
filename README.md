@@ -44,7 +44,7 @@
 
 ###
 
-<h2 align="center">My stats🔥</h2>
+<h2 align="center">My stats🔥 </h2>
 
 ###
 
