@@ -10,11 +10,17 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
+  <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" alt="JavaScript" />
+  <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
+  <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
+  <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+  <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
+  <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
 </div>
 
@@ -22,15 +28,17 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" />
-  <img width="20"/>
+  <img width="10"/>
   <img src="https://skillicons.dev/icons?i=eclipse" height="50" alt="Eclipse" />
-  <img width="20"/>
+  <img width="10"/>
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
-  <img width="20"/>
+  <img width="10"/>
   <img src="https://skillicons.dev/icons?i=spring" height="50" alt="Spring" />
-  <img width="20"/>
+  <img width="10"/>
   <img src="https://skillicons.dev/icons?i=figma" height="50" alt="Figma" />
-  <img width="20"/>
+  <img width="10"/>
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="50" alt="postman logo"  />
+  <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" alt="Azure" />
 </div>
 
