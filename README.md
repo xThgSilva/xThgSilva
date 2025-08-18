@@ -59,7 +59,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thiago-234&theme=modern-lilac&area=true" height="300"/>
 </div>
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center">Pacman Contribution 🎮🕹️👾</h2>
 
 <p align="center">
   <picture>
