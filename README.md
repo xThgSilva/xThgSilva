@@ -46,7 +46,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xThgSilva&show_icons=true&count_private=true&theme=midnight-purple&hide_border=false" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thiago-234&layout=compact&langs_count=6&theme=midnight-purple&hide_border=false" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xThgSilva&layout=compact&langs_count=6&theme=midnight-purple&hide_border=false" height="160"/>
 </div>
 
 <div align="center">
@@ -56,23 +56,23 @@
 <h2 align="center">📈 Contribution Activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thiago-234&theme=modern-lilac&area=true" height="300"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xThgSilva&theme=modern-lilac&area=true" height="300"/>
 </div>
 
 <h2 align="center">Pacman Contribution 🎮🕹️👾</h2>
 
 <p align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thiago-234/Thiago-234/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thiago-234/Thiago-234/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Thiago-234/Thiago-234/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xThgSilva/xThgSilva/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xThgSilva/xThgSilva/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/xThgSilva/xThgSilva/output/pacman-contribution-graph.svg">
 </picture>
 </p>
 
 <h2 align="center">Visitors 🕵️</h2>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Thiago-234/count.svg?" />
+  <img src="https://profile-counter.glitch.me/xThgSilva/count.svg?" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
