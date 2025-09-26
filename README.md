@@ -50,7 +50,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Thiago-234&theme=midnight-purple&hide_border=false&border_radius=5" height="150" />
+  <img src="https://streak-stats.demolab.com?user=xThgSilva&theme=midnight-purple&hide_border=false&border_radius=5" height="150" />
 </div>
 
 <h2 align="center">📈 Contribution Activity</h2>
