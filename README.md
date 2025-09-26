@@ -45,7 +45,7 @@
 <h2 align="center">📊 My Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thiago-234&show_icons=true&count_private=true&theme=midnight-purple&hide_border=false" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xThgSilva&show_icons=true&count_private=true&theme=midnight-purple&hide_border=false" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thiago-234&layout=compact&langs_count=6&theme=midnight-purple&hide_border=false" height="160"/>
 </div>
 
