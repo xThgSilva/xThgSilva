@@ -74,7 +74,7 @@
 <h2 align="center">Visitors 🕵️</h2>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/xThgSilva/count.svg?" />
+  <img src="https://komarev.com/ghpvc/?username=xThgSilva&color=8A2BE2&style=for-the-badge" alt="Profile views"/>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
