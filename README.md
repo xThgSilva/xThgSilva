@@ -11,7 +11,7 @@
 
 <div align="center">
   <h1>💻 My Stack</h1>
-  <img src="https://skillicons.dev/icons?i=java,cs,dotnet,html,css,js,react,mysql&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,cs,dotnet,html,css,js,python,react,mysql&theme=light" />
 </div>
 
 <br/>
