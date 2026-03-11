@@ -24,6 +24,14 @@
 <br/>
 
 <div align="center">
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xThgSilva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="231" alt="languages graph"  />
+</p>
+</div
+  
+<br/>
+
+<div align="center">
   <h1>📈 Contribution Activity</h1>
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=xThgSilva&theme=modern-lilac&area=true&hide_border=true"
