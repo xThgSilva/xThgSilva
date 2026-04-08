@@ -25,12 +25,6 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xThgSilva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=synthwave&hide_border=true&order=2" height="231" alt="languages graph"  />
-</p>
-</div
   
 <br/>
 
