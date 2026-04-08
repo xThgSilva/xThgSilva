@@ -18,9 +18,9 @@
 
 <div align="center">
   <h1>🛠 Tools</h1>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,windows,eclipse,git,github,spring,flask&theme=light" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,git,github,spring,flask,fastapi&theme=light" />
 <div align="center">
-   <img src="https://skillicons.dev/icons?i=npm,vite,figma,postman,azure&theme=light" />
+   <img src="https://skillicons.dev/icons?i=npm,vite,figma,postman,azure,windows&theme=light" />
 </div>
 </div>
 
