@@ -20,7 +20,7 @@
   <h1>🛠 Tools</h1>
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,git,github,spring,flask,fastapi&theme=light" />
 <div align="center">
-   <img src="https://skillicons.dev/icons?i=npm,vite,figma,postman,azure,windows&theme=light" />
+   <img src="https://skillicons.dev/icons?i=npm,vite,figma,postman,windows,azure,linux&theme=light" />
 </div>
 </div>
 
