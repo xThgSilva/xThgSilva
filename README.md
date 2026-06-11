@@ -68,7 +68,7 @@
   <a href="mailto:camposthiago2021@gmail.com" margin=10>
     <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
   </a>
-  <a href="https://www.linkedin.com/in/thiago-silva-214872328/">
+  <a href="https://www.linkedin.com/in/thiagoc-silva/">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
   </a>
 </div>
