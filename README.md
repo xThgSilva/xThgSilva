@@ -67,7 +67,7 @@
 <br />
 
 <div>
-    <h1>🚀 Featured Projects</h1>
+    <h1 align="center">🚀 Featured Projects</h1>
 
    - 🔐 [Security JWT API](https://github.com/xThgSilva/security-jwt-api)
       - Authentication and authorization using Spring Security and JWT
