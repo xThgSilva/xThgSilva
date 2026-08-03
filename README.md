@@ -77,8 +77,6 @@
       - REST API focused on sales and inventory management
    - 📨 [Message Central API](https://github.com/xThgSilva/message-central-api)
       - Centralized message management API
-   - 🛒 [E-commerce PI (Front-end)](https://github.com/projeto-integrador-ads/front-end)
-      - Full-stack academic e-commerce project
 
 </div>
 
