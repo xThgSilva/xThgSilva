@@ -62,8 +62,8 @@
     <h1>📚 Currently Studying</h1>
 
    ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-   ![Figma](https://img.shields.io/badge/Figma%20UI/UX-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
    ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+   ![Fedora](https://img.shields.io/badge/Fedora-%23294172.svg?style=for-the-badge&logo=fedora&logoColor=white)
 </div>
 
 <br />
